@@ -71,12 +71,6 @@ This project is open-source and free to use.
 
 ---
 
-## 🙏 Credits
-
-- Pomodoro Technique by Francesco Cirillo
-
----
-
 ## 💡 Contributing
 
 Pull requests and suggestions are welcome!
