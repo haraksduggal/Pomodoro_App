@@ -20,7 +20,7 @@ A simple, stylish Pomodoro Timer web app to boost your productivity!
 ## 🖼️ Preview
 
 
-[![Preview of Pomodoro Timer](images/screenshot.png)](images/screenshot.png)
+<img width="1470" alt="Screenshot 2025-05-08 at 2 22 16 PM" src="https://github.com/user-attachments/assets/a973f644-5f86-4a4a-82b3-9918288680f0" />
 
 
 ---
