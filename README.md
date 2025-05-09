@@ -41,7 +41,7 @@ No build tools or dependencies required!
 
 ---
 
-## 📁 Project Structure
+## 📁 Project Structure:
 
 ```
 pomodoro-timer/
@@ -77,6 +77,6 @@ Pull requests and suggestions are welcome!
 
 ---
 
-Enjoy your productivity boost! 🚀
+Enjoy your productivity boost!!!🚀
 
 ---
